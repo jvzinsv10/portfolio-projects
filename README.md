@@ -1,10 +1,8 @@
-# portfolio-projects
+# Project-showcase
 
 Welcome to my project showcase repository.
 
 This repository was created to present some of the web, automation, monitoring, and operational tools I have developed or contributed to. The goal is to demonstrate technical skills, problem-solving ability, UI/UX care, and practical experience with real-world systems.
-
-> ⚠️ Some projects were developed for professional or client-related contexts. For security and confidentiality reasons, sensitive data, private endpoints, credentials, internal rules, real operational information, and restricted source code were removed or replaced with demonstrative content.
 
 ---
 
