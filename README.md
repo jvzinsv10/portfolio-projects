@@ -8,9 +8,9 @@
   <a href="https://github.com/jvzinsv10">
     <img src="https://img.shields.io/badge/GitHub-jvzinsv10-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Status-Portfolio_Showcase-00C2FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web_%26_Automation-FFC400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Confidential_Data-Removed-0B8F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Workflow_Tools-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Design-UI%2FUX-FFC400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Operational_Assistant-7B61FF?style=for-the-badge" />
 </p>
 
 ---
