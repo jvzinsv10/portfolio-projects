@@ -6,9 +6,6 @@ This repository was created to present selected projects I developed or contribu
 
 The objective of this repository is to demonstrate technical skills, interface design, problem-solving ability, system organization, and experience building solutions for real operational environments.
 
-> ⚠️ **Confidentiality Notice**  
-> Some of the projects presented here were developed in professional or client-related contexts.  
-> For security and confidentiality reasons, sensitive information such as credentials, private endpoints, internal rules, restricted code, production data, and operational details were removed, omitted, or replaced with safe demonstrative content.
 
 ---
 
