@@ -134,9 +134,49 @@ This repository does not include real credentials, private URLs, internal databa
 
 The content shown here is intended only as a portfolio demonstration.
 
-Preview
+### Preview
 
-Add project screenshots here.
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-01-login.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-02-equipamentos-dashboard.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-03-dados-contratuais.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-04-falhas-ocorrencias.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-05-mapa-operacional.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-06-ia-operacional.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-07-spltv-acesso.png" width="48%" />
+  <img src="./assets/painel-operacoes/painel-08-swm-acesso.png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-09-perkons.png" width="48%" />
+  <img src="./assets/painel-operacoes/painel-10-pumatronix.png" width="48%" />
+</p>
+
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-12-usuarios-permissoes.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/painel-operacoes/painel-13-alterar-senha-modal.png" width="45%" />
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
