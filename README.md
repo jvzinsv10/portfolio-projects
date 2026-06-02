@@ -441,44 +441,6 @@ Some screenshots may also be edited, cropped, blurred, or replaced when needed t
 
 ---
 
-## 📁 Repository Structure
-
-```text
-portfolio-projects/
-│
-├── README.md
-│
-└── assets/
-    │
-    ├── tpa-monte-verde/
-    │   ├── tpa-01-home-hero.png
-    │   ├── tpa-02-modal-isencao.png
-    │   ├── tpa-03-modal-pagamento.png
-    │   ├── tpa-04-sobre-tpa.png
-    │   ├── tpa-05-natureza-galeria.png
-    │   ├── tpa-06-galeria-expanded.png
-    │   ├── tpa-07-passo-a-passo.png
-    │   ├── tpa-08-isencao-cards.png
-    │   ├── tpa-09-tabela-precos.png
-    │   ├── tpa-10-legislacao.png
-    │   └── tpa-11-faq-footer.png
-    │
-    └── painel-operacoes/
-        ├── painel-01-login.png
-        ├── painel-02-equipamentos-dashboard.png
-        ├── painel-03-dados-contratuais.png
-        ├── painel-04-falhas-ocorrencias.png
-        ├── painel-05-mapa-operacional.png
-        ├── painel-06-ia-operacional.png
-        ├── painel-07-spltv-acesso.png
-        ├── painel-08-swm-acesso.png
-        ├── painel-09-perkons.png
-        ├── painel-10-pumatronix.png
-        ├── painel-12-usuarios-permissoes.png
-        └── painel-13-alterar-senha-modal.png
-```
-
----
 
 ## 📬 Contact
 
@@ -490,14 +452,6 @@ portfolio-projects/
     <img src="https://img.shields.io/badge/Email-jvzinsv10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## ⚖️ License
-
-No license is currently applied to this repository.
-
-All rights are reserved unless otherwise stated.
 
 ---
 
