@@ -55,9 +55,48 @@ The project focuses on clear communication, responsive design, public informatio
 - Public information architecture
 - Front-end optimization
 
-#### Preview
+### Preview
 
-> Add project screenshots here.
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-01-home-hero.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-02-modal-isencao.png" width="45%" />
+  <img src="./assets/tpa-monte-verde/tpa-03-modal-pagamento.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-04-sobre-tpa.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-05-natureza-galeria.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-06-galeria-expanded.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-07-passo-a-passo.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-08-isencao-cards.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-09-tabela-precos.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-10-legislacao.png" width="90%" />
+</p>
+
+<p align="center">
+  <img src="./assets/tpa-monte-verde/tpa-11-faq-footer.png" width="90%" />
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
