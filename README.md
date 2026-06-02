@@ -59,5 +59,58 @@ The project focuses on clear communication, responsive design, public informatio
 
 > Add project screenshots here.
 
-```txt
-/tpa-monte-verde/images/
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📊 Operations Panel — Monitoring Dashboard
+
+A web-based operational dashboard designed to centralize monitoring information, equipment status, failures, records, and operational data in a more organized and visual way.
+
+This project was built to support daily operational routines, helping teams quickly identify equipment status, pending issues, alerts, and relevant information.
+
+Main features
+Equipment monitoring dashboard
+Status visualization
+Online/offline indicators
+Operational failure records
+Filters by city, equipment, and status
+User access control
+Data organization
+Visual cards and counters
+Internal operational support tools
+Technologies and concepts used
+HTML
+CSS
+JavaScript
+Python
+Supabase
+API integration
+Dashboard design
+Authentication
+Data visualization
+Automation logic
+Backend/frontend integration
+Security note
+
+This repository does not include real credentials, private URLs, internal databases, API keys, company-sensitive information, or production source code.
+
+The content shown here is intended only as a portfolio demonstration.
+
+Preview
+
+Add project screenshots here.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🛠️ Skills Demonstrated
+
+This repository highlights experience with:
+
+Building real-world web interfaces
+Creating dashboards for operational use
+Improving internal workflows
+Organizing technical information
+Designing responsive layouts
+Connecting frontend and backend logic
+Working with databases and authentication
+Creating cleaner user experiences
+Transforming operational needs into usable tools
